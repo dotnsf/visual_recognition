@@ -2,8 +2,8 @@
 // 以下の Watson API と MySQL の接続情報を自身の環境に併せて編集する
 
 // Watson Visual Recognition API
-$watson_username = '9c0c7cfd-091e-4c47-b559-ca6e2bd07609';
-$watson_password = 'VFQ7hOQIJHlO';
+$watson_username = '(WATSON USERNAME)';
+$watson_password = '(WATSON PASSWORD)';
 
 // MySQL
 $hostname = 'hostname';
